@@ -1,0 +1,5 @@
+.env
+cookie.*
+.__cache
+.vscode
+.__db
