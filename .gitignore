@@ -3,3 +3,6 @@ cookie.*
 .__cache
 .vscode
 .__db
+
+node_modules
+*.db
